@@ -13,7 +13,7 @@ J'ai mis en place le site France Montagnes en dynamique pour la partie des image
 
 ## insertion des données
 
-![table](./asset/bdd.PNG "table")
+![table](./PPE/asset/bdd.PNG "table")
 
 ## Connection php pour la base de donnée par l'objet **PDO**
 ```php
